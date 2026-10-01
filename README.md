@@ -1,16 +1,22 @@
-## Hi there 👋
+# Привет! Я Abdumolic 👋
 
-<!--
-**safolzoda01-jpg/safolzoda01-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Developer · Telegram Bots · aiogram 3
 
-Here are some ideas to get you started:
+Разрабатываю Telegram-ботов и автоматизирую задачи на Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Основные технологии
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![aiogram 3](https://img.shields.io/badge/aiogram_3-009688?style=for-the-badge&logo=telegram&logoColor=white)
+
+### 🎯 Направления работы
+
+- Разработка Telegram-ботов на aiogram 3
+- Автоматизация повседневных задач на Python
+- Создание удобных сценариев взаимодействия с ботами
+
+### 📬 Связаться со мной
+
+[![Telegram](https://img.shields.io/badge/Telegram-@habibzoda08-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/habibzoda08)
